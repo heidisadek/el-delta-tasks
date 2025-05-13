@@ -33,6 +33,8 @@
 #define FALSE 0
 #define TRUE 1
 
+#pragma GCC optimize("Os")
+	
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
